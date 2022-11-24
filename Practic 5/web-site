@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> PRACTICA 5 </title>
+    </head>
+<style>
+.all{
+    display: flex;
+    float: right;
+    
+}
+.first{
+    border: 5px;
+}
+
+h3:nth-last-of-type(1){
+    float:right;
+}
+
+</style>
+
+    <BODY>
+        <h1>captions</h1>
+<section class = "all">
+<article class = "first">
+    <h3> Caption 1</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum exercitationem saepe sed magni consequatur similique recusandae, cumque, pariatur incidunt perferendis omnis
+         itaque tenetur enim aperiam assumenda animi. Recusandae, rem veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque esse nisi ab maxime. 
+         Maiores vero nesciunt voluptates quos rem consectetur magni fuga cum voluptatem corporis harum quidem, dolore accusantium provident? Lorem, ipsum dolor sit amet consectetur
+         adipisicing elit. Dolores laudantium eos itaque aperiam ipsa nam harum aliquid alias iusto! Consequatur perspiciatis iusto debitis harum, quidem commodi sit assumenda ullam quibusdam?
+    </p>
+</article>
+
+<article class = "second">
+    <h3> Caption 1</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum exercitationem saepe sed magni consequatur similique recusandae, cumque, pariatur incidunt perferendis omnis
+         itaque tenetur enim aperiam assumenda animi. Recusandae, rem veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque esse nisi ab maxime. 
+         Maiores vero nesciunt voluptates quos rem consectetur magni fuga cum voluptatem corporis harum quidem, dolore accusantium provident? Lorem, ipsum dolor sit amet consectetur
+         adipisicing elit. Dolores laudantium eos itaque aperiam ipsa nam harum aliquid alias iusto! Consequatur perspiciatis iusto debitis harum, quidem commodi sit assumenda ullam quibusdam?
+    </p>
+</article>
+
+<article class = "3th">
+    <h3> Caption 1</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum exercitationem saepe sed magni consequatur similique recusandae, cumque, pariatur incidunt perferendis omnis
+         itaque tenetur enim aperiam assumenda animi. Recusandae, rem veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque esse nisi ab maxime. 
+         Maiores vero nesciunt voluptates quos rem consectetur magni fuga cum voluptatem corporis harum quidem, dolore accusantium provident? Lorem, ipsum dolor sit amet consectetur
+         adipisicing elit. Dolores laudantium eos itaque aperiam ipsa nam harum aliquid alias iusto! Consequatur perspiciatis iusto debitis harum, quidem commodi sit assumenda ullam quibusdam?
+    </p>
+</article>
+</section>
+
+    </BODY>
+</html>
